@@ -64,7 +64,7 @@ em {
 }
 
 textarea {
-  font-size: 0.2em;
+  font-size: 0.15em;
   display: block;
   box-sizing: border-box;
   padding: 5px;
@@ -74,7 +74,7 @@ textarea {
   margin-top: 5px;
   color: #ffffff;
   background-size:contain;
-  width: 60%;
+  width: 50%;
   border-width: 0;
   height: 40px !important;
   overflow: hidden;
@@ -95,7 +95,7 @@ textarea:focus, input:focus {
   color: #ffffff;
   background-color: rgba(36, 38, 42, 0.85) !important;
   border-radius: 14px;
-  width: 100%;
+  width: 80%;
   padding-left: 0px;
   padding: 6px;
   padding-bottom: 3px;
@@ -103,7 +103,7 @@ textarea:focus, input:focus {
 
 .suggestion {
   font-family: Arial, Helvetica, sans-serif !important;
-  font-size: 20px;
+  font-size: 13px;
   background-color: #17181a !important;
   opacity: 100%;
   border-radius: 8px;
